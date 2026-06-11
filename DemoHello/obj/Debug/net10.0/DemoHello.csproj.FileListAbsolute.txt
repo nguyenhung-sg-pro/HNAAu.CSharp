@@ -1,0 +1,14 @@
+D:\Data\WorkingCopyOld\Learning C#\Demo\DemoHello\bin\Debug\net10.0\DemoHello.exe
+D:\Data\WorkingCopyOld\Learning C#\Demo\DemoHello\bin\Debug\net10.0\DemoHello.deps.json
+D:\Data\WorkingCopyOld\Learning C#\Demo\DemoHello\bin\Debug\net10.0\DemoHello.runtimeconfig.json
+D:\Data\WorkingCopyOld\Learning C#\Demo\DemoHello\bin\Debug\net10.0\DemoHello.dll
+D:\Data\WorkingCopyOld\Learning C#\Demo\DemoHello\bin\Debug\net10.0\DemoHello.pdb
+D:\Data\WorkingCopyOld\Learning C#\Demo\DemoHello\obj\Debug\net10.0\DemoHello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\WorkingCopyOld\Learning C#\Demo\DemoHello\obj\Debug\net10.0\DemoHello.AssemblyInfoInputs.cache
+D:\Data\WorkingCopyOld\Learning C#\Demo\DemoHello\obj\Debug\net10.0\DemoHello.AssemblyInfo.cs
+D:\Data\WorkingCopyOld\Learning C#\Demo\DemoHello\obj\Debug\net10.0\DemoHello.csproj.CoreCompileInputs.cache
+D:\Data\WorkingCopyOld\Learning C#\Demo\DemoHello\obj\Debug\net10.0\DemoHello.dll
+D:\Data\WorkingCopyOld\Learning C#\Demo\DemoHello\obj\Debug\net10.0\refint\DemoHello.dll
+D:\Data\WorkingCopyOld\Learning C#\Demo\DemoHello\obj\Debug\net10.0\DemoHello.pdb
+D:\Data\WorkingCopyOld\Learning C#\Demo\DemoHello\obj\Debug\net10.0\DemoHello.genruntimeconfig.cache
+D:\Data\WorkingCopyOld\Learning C#\Demo\DemoHello\obj\Debug\net10.0\ref\DemoHello.dll
