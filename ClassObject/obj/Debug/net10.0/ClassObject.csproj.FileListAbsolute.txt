@@ -1,0 +1,15 @@
+D:\Data\WorkingCopyOld\Learning C#\Demo\ClassObject\bin\Debug\net10.0\ClassObject.exe
+D:\Data\WorkingCopyOld\Learning C#\Demo\ClassObject\bin\Debug\net10.0\ClassObject.deps.json
+D:\Data\WorkingCopyOld\Learning C#\Demo\ClassObject\bin\Debug\net10.0\ClassObject.runtimeconfig.json
+D:\Data\WorkingCopyOld\Learning C#\Demo\ClassObject\bin\Debug\net10.0\ClassObject.dll
+D:\Data\WorkingCopyOld\Learning C#\Demo\ClassObject\bin\Debug\net10.0\ClassObject.pdb
+D:\Data\WorkingCopyOld\Learning C#\Demo\ClassObject\obj\Debug\net10.0\ClassObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\WorkingCopyOld\Learning C#\Demo\ClassObject\obj\Debug\net10.0\ClassObject.AssemblyInfoInputs.cache
+D:\Data\WorkingCopyOld\Learning C#\Demo\ClassObject\obj\Debug\net10.0\ClassObject.AssemblyInfo.cs
+D:\Data\WorkingCopyOld\Learning C#\Demo\ClassObject\obj\Debug\net10.0\ClassObject.csproj.CoreCompileInputs.cache
+D:\Data\WorkingCopyOld\Learning C#\Demo\ClassObject\obj\Debug\net10.0\ClassObject.sourcelink.json
+D:\Data\WorkingCopyOld\Learning C#\Demo\ClassObject\obj\Debug\net10.0\ClassObject.dll
+D:\Data\WorkingCopyOld\Learning C#\Demo\ClassObject\obj\Debug\net10.0\refint\ClassObject.dll
+D:\Data\WorkingCopyOld\Learning C#\Demo\ClassObject\obj\Debug\net10.0\ClassObject.pdb
+D:\Data\WorkingCopyOld\Learning C#\Demo\ClassObject\obj\Debug\net10.0\ClassObject.genruntimeconfig.cache
+D:\Data\WorkingCopyOld\Learning C#\Demo\ClassObject\obj\Debug\net10.0\ref\ClassObject.dll
