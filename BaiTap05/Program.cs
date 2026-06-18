@@ -55,6 +55,23 @@ class HocSinh : Nguoi
     }
 }
 
+class MayTinh
+{
+    public void KhoiDong()
+    {
+        Console.WriteLine("Máy tính đang khởi động...");
+    }
+}
+
+class LapTop : MayTinh
+{
+    public void KhoiDongLapTop()
+    {
+        base.KhoiDong();
+        Console.WriteLine("Màn hình đăng nhập kích hoạt và cần nhập mật khẩu !");
+    }
+}
+
 class Program
 {
     static void Main()
@@ -71,8 +88,10 @@ class Program
 
         // QuanLy ql = new();
         // ql.HienThiThongTin();
-        HocSinh hs = new("Nguyễn Văn Đại", 8.5);
+        // HocSinh hs = new("Nguyễn Văn Đại", 8.5);
+        // HocSinh hs1= new("Trần Văn Bách", 7);
 
-        HocSinh hs1= new("Trần Văn Bách", 7);
+        LapTop lapTop = new();
+        lapTop.KhoiDongLapTop();
     }
 }
