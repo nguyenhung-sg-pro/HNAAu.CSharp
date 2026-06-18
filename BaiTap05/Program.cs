@@ -17,19 +17,37 @@ class Meo : DongVatCoVu
     }
 }
 
+class NhanVien
+{
+    private double _luongCoBan = 50000000;
+    protected string MaNhanVien = "";
+}
+
+class QuanLy : NhanVien
+{
+    public void HienThiThongTin()
+    {
+        MaNhanVien = "NV001";
+         
+        Console.WriteLine("Mã nhân viên quản lý là " + MaNhanVien);
+    }
+}
+
 class Program
 {
     static void Main()
     {
-        Console.WriteLine("Hello bạn đến với chương trình của tôi!");
-        Meo meo = new();
+        // Console.WriteLine("Hello bạn đến với chương trình của tôi!");
+        // Meo meo = new();
 
-        meo.Ten = "Mèo mướp";
-        Console.WriteLine(meo.Ten.ToString());
-        meo.BatChuot();
+        // meo.Ten = "Mèo mướp";
+        // Console.WriteLine(meo.Ten.ToString());
+        // meo.BatChuot();
 
-        Console.WriteLine(meo.Loai.ToString());
-        meo.SinhSan();
+        // Console.WriteLine(meo.Loai.ToString());
+        // meo.SinhSan();
 
+        QuanLy ql = new();
+        ql.HienThiThongTin();
     }
 }
