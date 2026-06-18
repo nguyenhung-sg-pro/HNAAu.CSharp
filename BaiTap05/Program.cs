@@ -28,8 +28,30 @@ class QuanLy : NhanVien
     public void HienThiThongTin()
     {
         MaNhanVien = "NV001";
-         
+
         Console.WriteLine("Mã nhân viên quản lý là " + MaNhanVien);
+    }
+}
+
+class Nguoi
+{
+    public string HoTen;
+
+    public Nguoi(string hoTen)
+    {
+        HoTen = hoTen;
+        Console.WriteLine("Đã khởi tạo đối tượng Nguoi: " + HoTen);
+    }
+}
+
+class HocSinh : Nguoi
+{
+    public double Diem;
+    public HocSinh(string hoTen, double diem) : base(hoTen) 
+    {
+        Diem = diem;
+        Console.WriteLine("Đã khởi tạo đối tượng HocSinh với Diem = "+ Diem);
+        Console.ForegroundColor = ConsoleColor.DarkYellow;
     }
 }
 
@@ -47,7 +69,10 @@ class Program
         // Console.WriteLine(meo.Loai.ToString());
         // meo.SinhSan();
 
-        QuanLy ql = new();
-        ql.HienThiThongTin();
+        // QuanLy ql = new();
+        // ql.HienThiThongTin();
+        HocSinh hs = new("Nguyễn Văn Đại", 8.5);
+
+        HocSinh hs1= new("Trần Văn Bách", 7);
     }
 }
