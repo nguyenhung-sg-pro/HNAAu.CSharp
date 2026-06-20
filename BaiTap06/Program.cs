@@ -24,7 +24,7 @@
 //         Console.WriteLine("Meo meo !");
 //     }
 // }
-
+ 
 // public class SinhVien
 // {
 //     public string? HoTen { get; set; }
@@ -36,41 +36,46 @@
 //     }
 // }
 
+
+
 public class TruongHoc
 {
-    public string TenTruong = "Hướng nghiệp Á Âu";
-
+    private static string TenTruong = "Hướng nghiệp Á Âu";
+ 
     public class Khoa
     {
         public string? TenKhoa { get; set; }
 
         public void HienThiThongTin()
         {
-            Console.WriteLine("Đây là khoa: " + TenKhoa);
+            Console.WriteLine("Đây là khoa: " + TenKhoa + " và trường là: " + TenTruong);
         }
     }
+
     class Program
     {
         public static void Main()
         {
-            // DongVat dv1 = new Meo();
-            // dv1.Speak();
+            /*
+            DongVat dv1 = new Meo();
+            dv1.Speak();
 
-            // DongVat dv2 = new Cho();
-            // dv2.Speak();
+            DongVat dv2 = new Cho();
+            dv2.Speak();
 
-            // SinhVien sv1 = new SinhVien { HoTen = "Hai Lúa", Tuoi = 23 };
+            SinhVien sv1 = new SinhVien { HoTen = "Hai Lúa", Tuoi = 23 };
 
-            // SinhVien sv2 = new SinhVien();
-            // sv2.HoTen = "Hai Lúa";
-            // sv2.Tuoi = 23;
+            SinhVien sv2 = new SinhVien();
+            sv2.HoTen = "Hai Lúa";
+            sv2.Tuoi = 23;
 
-            // Console.WriteLine(sv1.ToString());
-            // Console.WriteLine(sv1.Tuoi.GetType());
-            // string checkEqual = sv1.Equals(sv2) ? "Trùng nhau" : "Không trùng";
-            // Console.WriteLine(checkEqual);
+            Console.WriteLine(sv1.ToString());
+            Console.WriteLine(sv1.Tuoi.GetType());
+            string checkEqual = sv1.Equals(sv2) ? "Trùng nhau" : "Không trùng";
+            Console.WriteLine(checkEqual);
 
-            
+            */
+
             TruongHoc.Khoa khoa = new TruongHoc.Khoa();
             khoa.TenKhoa = "Công nghệ thông tin";
             khoa.HienThiThongTin();
