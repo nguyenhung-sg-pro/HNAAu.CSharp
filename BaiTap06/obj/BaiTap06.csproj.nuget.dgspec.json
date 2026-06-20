@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Data\\WorkingCopyOld\\Learning C#\\Demo\\BaiTap06\\BaiTap06.csproj": {}
+    "D:\\Data\\WorkingCopyOld\\Learning C#\\Demo\\BaiTap06\\BaiTap06.csproj": {}
   },
   "projects": {
-    "d:\\Data\\WorkingCopyOld\\Learning C#\\Demo\\BaiTap06\\BaiTap06.csproj": {
+    "D:\\Data\\WorkingCopyOld\\Learning C#\\Demo\\BaiTap06\\BaiTap06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Data\\WorkingCopyOld\\Learning C#\\Demo\\BaiTap06\\BaiTap06.csproj",
+        "projectUniqueName": "D:\\Data\\WorkingCopyOld\\Learning C#\\Demo\\BaiTap06\\BaiTap06.csproj",
         "projectName": "BaiTap06",
-        "projectPath": "d:\\Data\\WorkingCopyOld\\Learning C#\\Demo\\BaiTap06\\BaiTap06.csproj",
+        "projectPath": "D:\\Data\\WorkingCopyOld\\Learning C#\\Demo\\BaiTap06\\BaiTap06.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "d:\\Data\\WorkingCopyOld\\Learning C#\\Demo\\BaiTap06\\obj\\",
+        "outputPath": "D:\\Data\\WorkingCopyOld\\Learning C#\\Demo\\BaiTap06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config"
