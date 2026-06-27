@@ -35,6 +35,21 @@ public class PhanSo
         return $"{TuSo}/{MauSo}";
     }
 
+    // Ghi đè phương thức Equals()
+    public override bool Equals(object obj)
+    {
+        if (!(obj is PhanSo)) return false;
+
+        // Gọi lại toán tử == đã nạp chồng ở trên
+        return this == (PhanSo)obj;
+    }
+
+    // Lưu ý: Khi override Equals, C# luôn khuyến cáo override thêm GetHashCode()
+    public override int GetHashCode()
+    {
+        return TuSo.GetHashCode() ^ MauSo.GetHashCode();
+    }
+    
     public static implicit operator PhanSo(int value)
     {
         return new PhanSo(value, 1);
@@ -52,17 +67,22 @@ class Program
 {
     public static void Main()
     {
-        // PhanSo fs1 = new PhanSo(1, 2);
-        // PhanSo fs2 = new PhanSo(3, 6);
+        // Ví dụ 1
+        PhanSo fs1 = new PhanSo(1, 2);
+        PhanSo fs2 = new PhanSo(3, 6);
 
-        // PhanSo fs3 = fs1 + fs2;
-        // Console.WriteLine($"Kết quả cộng của {fs1} + {fs2} = {fs3}");
+        PhanSo fs3 = fs1 + fs2;
+        Console.WriteLine($"Kết quả cộng của {fs1} + {fs2} = {fs3}");
 
+        // Ví dụ 2
         // Console.WriteLine(fs1 == fs2 ? "Hai phân số bằng nhau" : "Hai phân số không bằng nhau");
 
-        PhanSo f = 5;
-        PhanSo f1 = new(4,3);
-        int x = (int)f1;
-        Console.WriteLine(x);
+        // Ví dụ 3
+        // PhanSo f = 5;
+
+        // PhanSo f1 = new(4,3);
+        // int x = (int)f1;
+
+        // Console.WriteLine(x);
     }
 }
