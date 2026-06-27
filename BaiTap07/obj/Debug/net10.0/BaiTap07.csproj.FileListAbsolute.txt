@@ -1,0 +1,15 @@
+D:\Data\WorkingCopyOld\Learning C#\Demo\BaiTap07\bin\Debug\net10.0\BaiTap07.exe
+D:\Data\WorkingCopyOld\Learning C#\Demo\BaiTap07\bin\Debug\net10.0\BaiTap07.deps.json
+D:\Data\WorkingCopyOld\Learning C#\Demo\BaiTap07\bin\Debug\net10.0\BaiTap07.runtimeconfig.json
+D:\Data\WorkingCopyOld\Learning C#\Demo\BaiTap07\bin\Debug\net10.0\BaiTap07.dll
+D:\Data\WorkingCopyOld\Learning C#\Demo\BaiTap07\bin\Debug\net10.0\BaiTap07.pdb
+D:\Data\WorkingCopyOld\Learning C#\Demo\BaiTap07\obj\Debug\net10.0\BaiTap07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\WorkingCopyOld\Learning C#\Demo\BaiTap07\obj\Debug\net10.0\BaiTap07.AssemblyInfoInputs.cache
+D:\Data\WorkingCopyOld\Learning C#\Demo\BaiTap07\obj\Debug\net10.0\BaiTap07.AssemblyInfo.cs
+D:\Data\WorkingCopyOld\Learning C#\Demo\BaiTap07\obj\Debug\net10.0\BaiTap07.csproj.CoreCompileInputs.cache
+D:\Data\WorkingCopyOld\Learning C#\Demo\BaiTap07\obj\Debug\net10.0\BaiTap07.sourcelink.json
+D:\Data\WorkingCopyOld\Learning C#\Demo\BaiTap07\obj\Debug\net10.0\BaiTap07.dll
+D:\Data\WorkingCopyOld\Learning C#\Demo\BaiTap07\obj\Debug\net10.0\refint\BaiTap07.dll
+D:\Data\WorkingCopyOld\Learning C#\Demo\BaiTap07\obj\Debug\net10.0\BaiTap07.pdb
+D:\Data\WorkingCopyOld\Learning C#\Demo\BaiTap07\obj\Debug\net10.0\BaiTap07.genruntimeconfig.cache
+D:\Data\WorkingCopyOld\Learning C#\Demo\BaiTap07\obj\Debug\net10.0\ref\BaiTap07.dll
